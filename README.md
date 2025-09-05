@@ -377,3 +377,5 @@ Good luck, and if you want, I can now:
 - produce a condensed 8-month sprint plan with weekly tasks, or
 - generate boilerplate OpenAPI specs and database schemas (no implementation code), or
 - draft the exact Terraform + Helm skeleton needed to bootstrap infra.
+
+- installation Setup :-
