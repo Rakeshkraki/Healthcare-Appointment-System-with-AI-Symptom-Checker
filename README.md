@@ -379,3 +379,5 @@ Good luck, and if you want, I can now:
 - draft the exact Terraform + Helm skeleton needed to bootstrap infra.
 
 - installation Setup :-
+
+1. spring boot
